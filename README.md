@@ -1,6 +1,6 @@
 # GraphLA Link Prediction
 
-This repository contains the implementation of **GraphLA**, a leader-aware GNN for link prediction on social networks.
+This repository contains the implementation of **GraphLA**, a leader-aware GNN for link prediction on animal social networks.
 
 ## Running in Google Colab
 1. Copy the folder `notebook/GraphLA` to your Google Drive.  
